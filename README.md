@@ -14,3 +14,12 @@ Wifi and Bluetooth.
 
 Working:   
 Everything else. 
+
+Instructions:
+
+Make a bootable usb. Refer the official guide:
+https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
+
+Copy the contents of the EFI folder to the USB.
+
+Connect ethernet and boot the usb for installation.
